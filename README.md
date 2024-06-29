@@ -1,6 +1,6 @@
 # GRAPHENE: GRaph-based Analysis and Prediction Harnessing Efficient Natural language Exploration in Data Science
 
-DATA410 - Data Science Application III (Application for Natural Language Processing)
+DATA410 - Data Science Application III (Application of Natural Language Processing)
 
 Project Paper, slide, and implementation
 
