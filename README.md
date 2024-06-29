@@ -1,5 +1,7 @@
 # GRAPHENE: GRaph-based Analysis and Prediction Harnessing Efficient Natural language Exploration in Data Science
 
+This repo contains code for [QA-GNN: Reasoning with Language Models and Knowledge Graphs for Question Answering](https://arxiv.org/abs/2104.06378).
+
 DATA410 - Data Science Application III (Application of Natural Language Processing, 2023 Fall - Korea University)
 
 Project Paper, Slide, and Implementation
