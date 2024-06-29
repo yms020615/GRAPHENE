@@ -2,7 +2,7 @@
 
 DATA410 - Data Science Application III (Application of Natural Language Processing, 2023 Fall - Korea University)
 
-Project Paper, slide, and implementation
+Project Paper, Slide, and Implementation
 
 ## Task 1
 
